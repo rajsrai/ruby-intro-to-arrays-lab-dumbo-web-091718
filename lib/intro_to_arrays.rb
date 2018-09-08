@@ -9,5 +9,5 @@ end
 
 
 def first_element
-  array(0)
+  array.first
 end
