@@ -9,5 +9,5 @@ end
 
 
 def first_element
-  my_first_element[0]
+  my_first_element.first
 end
