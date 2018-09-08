@@ -9,6 +9,5 @@ end
 
 
 def first_element
-  taylor = ["Welcome to New York", "Hello", "Yo"]
   taylor[0]
 end
