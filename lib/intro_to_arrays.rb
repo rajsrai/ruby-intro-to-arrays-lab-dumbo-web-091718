@@ -9,5 +9,5 @@ end
 
 
 def first_element
-  taylor[0]
+  my_first_element[0]
 end
