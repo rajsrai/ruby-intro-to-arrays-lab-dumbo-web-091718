@@ -9,6 +9,6 @@ end
 
 
 def first_element
-  first_element = ["Welcome to New York", "Hello", "Yo"]
-  return first_element.first
+  taylor = ["Welcome to New York", "Hello", "Yo"]
+  return taylor.first
 end
