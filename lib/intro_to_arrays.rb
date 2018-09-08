@@ -4,7 +4,7 @@ end
 
 
 def array_with_two_elements(array)
-  array = Array.new(2)
+  array = Array.new(2, " ", " ")
 end
 
 
