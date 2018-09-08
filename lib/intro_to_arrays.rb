@@ -9,5 +9,5 @@ end
 
 
 def first_element
-  arr.first
+  arr.index(0)
 end
