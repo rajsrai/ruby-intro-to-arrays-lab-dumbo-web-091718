@@ -8,7 +8,6 @@ def array_with_two_elements
 end
 
 
-def first_element
-  taylor_swift = ["Welcome to New York", "Hello", "Bada ba ba ba"]
+def first_element["Welcome to New York", "Hello", "Bada ba ba ba"]
   taylor_swift[0]
 end
