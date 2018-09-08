@@ -9,5 +9,6 @@ end
 
 
 def first_element
+  taylor_swift = ["Welcome to New York", "Hello", "Bada ba ba ba"]
   taylor_swift[0]
 end
