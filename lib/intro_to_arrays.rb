@@ -8,6 +8,6 @@ def array_with_two_elements
 end
 
 
-def first_element([1, 2, 3])
-  arr.index(0)
+def first_element
+  array.first
 end
