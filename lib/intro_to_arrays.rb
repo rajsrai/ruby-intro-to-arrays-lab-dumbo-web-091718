@@ -10,5 +10,5 @@ end
 
 def first_element
   taylor = ["Welcome to New York", "Hello", "Yo"]
-  return taylor.first
+  taylor[0]
 end
